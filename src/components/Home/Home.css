@@ -387,4 +387,10 @@
     padding: 0;
     border: 0;
   }
+  .latest-content-desc {
+    max-width: none;
+  }
+  .latest-content-heading {
+    max-width: none;
+  }
 }

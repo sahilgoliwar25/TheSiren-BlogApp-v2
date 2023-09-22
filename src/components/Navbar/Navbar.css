@@ -109,7 +109,7 @@ a {
 /* -------------Media Query for Mobiles--------------- */
 @media only screen and (min-device-width: 270px) and (max-device-width: 1200px) {
   .nav-Container {
-    padding: 10px;
+    padding: 10px 0;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     margin-bottom: 20px;
   }
