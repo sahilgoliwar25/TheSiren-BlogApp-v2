@@ -3,7 +3,7 @@
   width: 100%;
   color: white;
   height: auto;
-
+  position: relative;
   /* align-items: center; */
   padding: 20px 0;
   display: grid;

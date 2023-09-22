@@ -116,6 +116,17 @@
 #ele1 > .post-rank {
   display: none;
 }
+
+.load-more-page {
+  margin: 15px;
+  cursor: pointer;
+}
+
+.load-more-page > svg {
+  color: #f08080;
+  font-size: 1rem;
+}
+
 /* -------------Media Query for Mobiles--------------- */
 @media only screen and (min-device-width: 270px) and (max-device-width: 1200px) {
   .blog-ad {
