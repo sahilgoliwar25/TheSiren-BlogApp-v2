@@ -80,7 +80,7 @@ const Pages = (props) => {
                     </div>
                   );
                 })}
-              <div className="blog-ad">
+              <div className="blog-ad-page">
                 <img src={ads} alt="Ad not found" />
               </div>
             </div>

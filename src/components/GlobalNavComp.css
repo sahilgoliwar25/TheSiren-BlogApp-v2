@@ -126,10 +126,16 @@
   color: #f08080;
   font-size: 1rem;
 }
+.blog-ad-page {
+  margin-top: 100px;
+}
+.blog-ad-page > img {
+  width: 100%;
+}
 
 /* -------------Media Query for Mobiles--------------- */
 @media only screen and (min-device-width: 270px) and (max-device-width: 1200px) {
-  .blog-ad {
+  .blog-ad-page {
     display: none;
   }
   .context-comp {
