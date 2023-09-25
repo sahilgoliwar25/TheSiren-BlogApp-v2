@@ -129,7 +129,9 @@
   font-weight: 500;
   color: #424242;
 }
-
+.blog-ad {
+  margin-top: 5px;
+}
 .blog-ad > img {
   width: 100%;
 }
